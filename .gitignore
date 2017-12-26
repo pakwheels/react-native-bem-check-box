@@ -1,1 +1,4 @@
 /node_modules/
+.DS_Store
+RNBEMCheckBox.xcodeproj/project.xcworkspace/xcuserdata/*
+RNBEMCheckBox.xcodeproj/xcuserdata/*
