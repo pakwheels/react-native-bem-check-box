@@ -10,7 +10,8 @@ Pod::Spec.new do |s|
   s.platform         = :ios, "7.0"
   s.requires_arc     = true
 
-  s.source_files     = "RNBEMCheckBox/*.{h,m}", "BEMCheckBox/*.{h,m}"
+  s.source_files     = "RNBEMCheckBox/*.{h,m}"
 
   s.dependency "React"
+  s.dependency "BEMCheckBox"
 end

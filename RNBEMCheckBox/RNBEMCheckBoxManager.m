@@ -1,4 +1,4 @@
-#import "BEMCheckBox.h"
+#import <BEMCheckBox/BEMCheckBox.h>
 #import "RNBEMCheckBoxManager.h"
 
 #import <React/RCTBridge.h>
